@@ -1,1 +1,1 @@
-# Simple HashChecker made in c#
+# Simple HashChecker made in c# with WPF interface
